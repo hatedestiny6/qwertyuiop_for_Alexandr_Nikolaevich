@@ -1,3 +1,5 @@
+# https://github.com/hatedestiny6/qwertyuiop_for_Alexandr_Nikolaevich/tree/main/pyqtgraph/фортепиано
+
 import sys
 
 from PyQt5.QtCore import Qt
